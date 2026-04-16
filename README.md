@@ -17,7 +17,7 @@ Connect to almost any major AI provider seamlessly:
 *   **Google Gemini**: Integrate your API key or use Gemini CLI. Includes support form many models and multimodal inputs.
 *   **GitHub Copilot Integration**: Access industry-leading models directly using your existing Copilot subscription.
 *   **OpenAI (ChatGPT) & Anthropic (Claude)**: Direct integration for industry-leading models like GPT-4o, Claude 3.7 Sonnet, and more.
-*   **More Cloud Providers**: Support for Grok, Perplexity, Kimi, Mistral, and NVIDIA NIM for high-performance cloud inference.
+*   **More Cloud Providers**: Support for Grok, Perplexity, Kimi, Mistral, and NVIDIA NIM and Custom APIs for high-performance cloud inference.
 *   **Ollama Integration**: Run strictly private local models on your machine (gemma, llama3, qwen, deepseek, mistral). Zero data leaves your device.
 *   **Apple Foundation Models**: Native on-device AI inference powered by Apple Intelligence directly on compatible Macs. Fast, private, and seamlessly integrated.
 *   **Custom APIs**: Add any OpenAI-compatible or Anthropic-compatible custom endpoint.
