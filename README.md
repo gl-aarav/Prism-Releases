@@ -2,6 +2,9 @@
 
 > **⚠️ NOTE:** This repository is dedicated exclusively to hosting pre-built binary releases and tracking updates for Prism. You can download the latest version directly from the [Releases](https://github.com/gl-aarav/Prism-Releases/releases) page.
 
+**Website:** [prism-app.tech](https://prism-app.tech)  
+**Source code:** [gl-aarav/Prism](https://github.com/gl-aarav/Prism)
+
 ## Prism - Your Ultimate Native AI Companion for macOS
 
 ![Window](images/Window.png)
@@ -14,13 +17,19 @@
 
 ### 🧠 Massive Multi-Model Intelligence (APIs)
 Connect to almost any major AI provider seamlessly:
-*   **Google Gemini**: Integrate your API key or use Gemini CLI. Includes support form many models and multimodal inputs.
+*   **Google Gemini**: Integrate your API key or use the Gemini CLI. Includes support for many models and multimodal inputs.
 *   **GitHub Copilot Integration**: Access industry-leading models directly using your existing Copilot subscription.
 *   **OpenAI (ChatGPT) & Anthropic (Claude)**: Direct integration for industry-leading models like GPT-4o, Claude 3.7 Sonnet, and more.
-*   **More Cloud Providers**: Support for Grok, Perplexity, Kimi, Mistral, and NVIDIA NIM and Custom APIs for high-performance cloud inference.
+*   **More Cloud Providers**: Support for Grok, Perplexity, Kimi, Mistral, and NVIDIA NIM for high-performance cloud inference.
 *   **Ollama Integration**: Run strictly private local models on your machine (gemma, llama3, qwen, deepseek, mistral). Zero data leaves your device.
 *   **Apple Foundation Models**: Native on-device AI inference powered by Apple Intelligence directly on compatible Macs. Fast, private, and seamlessly integrated.
 *   **Custom APIs**: Add any OpenAI-compatible or Anthropic-compatible custom endpoint.
+
+### 🔐 Secure Access & Billing Experience
+*   **Flexible Sign-In**: Continue with Google, GitHub, or Email + Password.
+*   **Flexible Plans**: Choose from Daily, Monthly, Yearly, or Lifetime access.
+*   **Fast Purchase Recovery**: Restore purchases in one click from both the access screen and Settings.
+*   **In-App Account Controls**: See your account status, current plan, next billing date, open billing management, and sign out anytime.
 
 ### 📁 Codebase & Folder Context (Agentic File Editor)
 Turn Prism into a powerful coding agent:
@@ -67,6 +76,7 @@ Prism adapts to how you work with multiple entry points, all **synchronized** in
 2.  **Menu Bar App**: Always one click away for quick questions and status checks.
 3.  **Quick AI Panel** (`Ctrl + Space`): A Spotlight-like floating search bar. Summon it instantly from anywhere to ask a question, then dismiss it just as fast.
 4.  **Interactive Web Overlay**: A dedicated, floating web view panel for quick internet access and searches alongside your AI.
+5.  **Smooth Panel Switching**: Quick AI, Quick Tools, and Web Overlay coordinate seamlessly so your workflow stays focused.
 
 ### 🔀 Model Comparison Mode
 *   **Side-by-Side Comparison**: Send the same prompt to multiple AI models simultaneously and compare their responses.
@@ -84,7 +94,7 @@ Prism adapts to how you work with multiple entry points, all **synchronized** in
 ### 🎨 Image Generation
 *   **AI Image Creation**: Generate stunning visuals using AI. Includes support for custom aspect ratios and ultra-high resolution **4K generation**.
 *   **Local Image Generation**: Run image generation securely and privately on your machine using Ollama integration.
-*   **Multiple Styles**: Choose from various styles including Animation, Illustration, Sketch (Apple Intelligence) and Watercolor, Vector, Anime, Print.
+*   **Multiple Styles**: Choose from various styles including Animation, Illustration, Sketch (Apple Intelligence), Watercolor, Vector, Anime, and Print.
 *   **Persistent Gallery**: All generated images are saved and accessible in a gallery view.
 
 ### ❓ Quiz Me Mode
@@ -101,10 +111,10 @@ Prism adapts to how you work with multiple entry points, all **synchronized** in
 *   **Configurable Thinking Levels**: Adjust AI thinking depth for reasoning models.
 
 ### ⚡️ Performance & Design
-*   **Native macOS**: Built with SwiftUI for blazing fast performance and low memory footprint.
+*   **Native macOS**: Built with SwiftUI for blazing-fast performance and a low memory footprint.
 *   **Streaming**: Character-by-character streaming responses for immediate feedback.
 *   **Liquid Glass Aesthetic**: Sleek, modern UI with glassmorphism effects and macOS Tahoe design cues.
-*   **Highly Customizable**: Personalize your experience with custom themes, adjustable opacity, default models, and system prompts.
+*   **Highly Customizable**: Personalize your experience with custom themes, menu bar icon styles, adjustable opacity, default models, and system prompts.
 *   **Background Mode**: Prism runs silently in the background without cluttering your Dock, available instantly via hotkey.
 *   **Automatic Updates**: Built-in over-the-air update system keeps your app on the latest version seamlessly.
 
@@ -112,9 +122,9 @@ Prism adapts to how you work with multiple entry points, all **synchronized** in
 
 ## 📥 Installation
 
-**This project is distributed exclusively via pre-built applications.**
+**This repository is distributed exclusively via pre-built applications.**
 
-1.  Go to the **[Releases](../../releases)** page.
+1.  Go to the **[Releases](https://github.com/gl-aarav/Prism-Releases/releases)** page.
 2.  Download the latest `Prism_Installer.dmg`.
 3.  Open the disk image and drag **Prism** to your **Applications** folder.
 4.  Launch Prism!
