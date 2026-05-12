@@ -147,8 +147,6 @@ Prism adapts to how you work with multiple entry points, all **synchronized** in
 
 > **Note**: On first launch, you may need to right-click the app and select "Open" if Gatekeeper prompts you. You will also need to grant Accessibility permissions for the system-wide AI Writing Layer features to function.
 
-To build from source or contribute, use the **[Prism](https://github.com/gl-aarav/Prism)** repository instead.
-
 ---
 
 ## ⚙️ Configuration
