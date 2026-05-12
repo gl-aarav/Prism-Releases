@@ -3,7 +3,6 @@
 > **⚠️ NOTE:** This repository is dedicated exclusively to hosting pre-built binary releases and tracking updates for Prism. You can download the latest version directly from the [Releases](https://github.com/gl-aarav/Prism-Releases/releases) page.
 
 **Website:** [prism-app.tech](https://prism-app.tech) (includes changelog, pricing, and Terms of Use)  
-**Source code:** [gl-aarav/Prism](https://github.com/gl-aarav/Prism)
 
 ## Prism - Your Ultimate Native AI Companion for macOS
 
