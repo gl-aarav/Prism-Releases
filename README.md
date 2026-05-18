@@ -40,9 +40,7 @@ Turn Prism into a powerful coding agent:
 
 ### ✍️ System-Wide AI Writing Layer
 Transform any text field on your Mac into an AI-powered workspace using macOS Accessibility APIs:
-*   **Inline AI Autocomplete**: Get intelligent, contextual text predictions directly at your cursor as you type in any application.
-*   **Global Command Bar (IntelliBar)**: Summon a floating command bar to perform quick actions on selected text anywhere on your system.
-*   **Personalized Writing Style**: Prism learns your unique writing style over time.
+*   **Global Command Bar**: Summon a floating command bar to perform quick actions on selected text anywhere on your system.
 *   **Refinement Panel**: Rewrite, summarize, fix grammar, translate, and more.
 
 ### 🛠️ Quick Tools Panel & File Creator
@@ -168,7 +166,7 @@ Open the **MCP** section in Settings to add credentials, inspect connection deta
 ## 📝 Usage Tips
 
 ### System-Wide Writing Assistance
-Highlight any text in any app and invoke the Quick AI Hotkey to bring up the Refinement Panel or IntelliBar to instantly rewrite, summarize, or fix your text. Enable AI Autocomplete in settings to get inline suggestions as you type.
+Highlight any text in any app and invoke the Quick AI Hotkey to bring up the Refinement Panel or IntelliBar to instantly rewrite, summarize, or fix your text.
 
 ### Math & LaTeX
 Prism supports extensive LaTeX formatting:
