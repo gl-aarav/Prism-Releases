@@ -31,7 +31,7 @@ Connect to almost any major AI provider seamlessly:
 *   **Fast Purchase Recovery**: Restore purchases in one click from both the access screen and Settings.
 *   **In-App Account Controls**: See your account status, current plan, next billing date, open billing management, and sign out anytime.
 
-### 📁 Codebase & Folder Context (Agentic File Editor)
+### 📁 Codebase & Folder Agent (Agentic File Editor)
 Turn Prism into a powerful coding agent:
 *   **Folder Analysis**: Drag and drop entire project folders. Prism scans and analyzes your codebase to understand the context.
 *   **Proposed File Changes**: Ask the AI to refactor or add features. It will propose code changes with an intuitive inline diff viewer.
